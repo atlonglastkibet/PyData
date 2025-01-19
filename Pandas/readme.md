@@ -1,2 +1,2 @@
 ## Pandas
-- You will find my Pandas Daily Practices in this directory together with the Data where applicable.
+-This directory contains my Pandas Daily Practices along with the relevant Data where applicable.
