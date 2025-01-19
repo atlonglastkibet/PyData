@@ -1,2 +1,2 @@
 ## Numpy
-- You will find my Numpy Daily Practices and Weekly Project in this directory.
+- This directory contains Numpy Daily Practices and Weekly Project.
